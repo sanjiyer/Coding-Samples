@@ -1,9 +1,9 @@
 # Coding-Samples
-Examples of my coding projects for Pre-Doctoral Applications. These are older examples of my coursework code from last year, and aren't as well commented and organised as I would have done currently.
+Examples of my coding projects for Pre-Doctoral Applications. 
 
 Stata: 
 - Stata Coding Sample
-- EC2C1 Empirical Project
+- EC2C1 Empirical Project (older and not as well organised or commented as I would do currently)
 
 Python:
 - Submarines
