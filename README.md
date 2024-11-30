@@ -1,5 +1,5 @@
 # Coding-Samples
-Examples of my coding projects for Pre-Doctoral Applications. 
+Examples of my coding projects.
 
 Stata: 
 - Stata Coding Sample
